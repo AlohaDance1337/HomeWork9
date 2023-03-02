@@ -1,4 +1,4 @@
-int FuncAck(int n, int m)
+﻿int FuncAck(int n, int m)
 {
     
     if (n == 0) 
